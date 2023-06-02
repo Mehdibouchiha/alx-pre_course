@@ -1,2 +1,2 @@
 My README file
-README update from github.com
+Updating README.md file from GitHub interface.
